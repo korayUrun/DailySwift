@@ -1,6 +1,11 @@
-//COMPLEX DATA TYPES
+/*COMPLEX DATA TYPES
+1)Arrays
+2)Dictionaries
+3)Sets
+4)Tuples
+5)Enums
 
-
+*/
 //Arrays are collections of values that are stored as a single value.
 
 let john = "John Lennon"
